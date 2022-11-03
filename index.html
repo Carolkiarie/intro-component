@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <script src="https://kit.fontawesome.com/fcd71fb10d.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./sstyle.css">
+  <title>Frontend Mentor | Intro component with sign up form</title>
+</head>
+<body>
+<main>
+<section class="container1">
+  <h1 class="hey">Learn to code by watching others</h1>
+  <p>See how experienced developers solve problems in 
+    real time. Watching scripted tutorials is great, but understanding
+    how developers think is invaluable
+  </p>
+</section>
+<section class="container2">
+<p class="span1"><span>Try it free 7 days</span><span class="span3"> then $20/mon. thereafter</span></p>
+<form>
+  <div class="tab">
+  <input type="text" name="firstname" placeholder="First Name">
+  <i class="fa-solid fa-circle-exclamation error1"></i>
+  <div>First Name cannot be empty</div>
+  </div>
+  <div class="tab">
+    <input type="text" name="lastname" placeholder="Last Name">
+    <i class="fa-solid fa-circle-exclamation error1"></i>
+    <div>Last Name cannot be empty</div>
+    </div>
+    <div class="tab">
+      <input type="text" name="email" placeholder="Email Address">
+      <i class="fa-solid fa-circle-exclamation error1"></i>
+      <div>Looks like this is not an email</div>
+      </div>
+      <div class="tab">
+        <input type="text" name="telephone" placeholder="Telephone number">
+        <i class="fa-solid fa-circle-exclamation error1"></i>
+        <div>Telephone must be a valid UK number(11 digits)</div>
+        </div>
+      <div class="tab">
+      
+        <input type="password" name="password" placeholder="Password">
+        <i class="fa-solid fa-circle-exclamation error1"></i>
+        <div>Password must be alphanumeric and be 8-20 characters long</div>
+        </div>
+        <button>CLAIM YOUR FREE TRIAL</button>
+        <div class="hey"><span class="span3">By clicking the button, you agree to our</span> 
+          <span class="span2">Terms and Services</span>
+        </div>
+</form>
+</section>
+
+</main>
+
+ <script src="sandbox.js"></script>
+</body>
+</html>
