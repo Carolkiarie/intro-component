@@ -43,6 +43,11 @@
 --grayishblue: hsl(246,25%, 77%);
 
   }
+
+
+  input::-webkit-contacts-auto-fill-button {
+    opacity: 0;
+    }
   main{
 display: flex;
 margin: 5rem;
