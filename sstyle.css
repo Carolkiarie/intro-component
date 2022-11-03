@@ -45,9 +45,7 @@
   }
 
 
-  input::-webkit-contacts-auto-fill-button {
-    opacity: 0;
-    }
+  
   main{
 display: flex;
 margin: 5rem;

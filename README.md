@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/use-of-regex-to-validate-a-form-OtmAcOZ154
 - Live Site URL: https://carolkiarie.github.io/intro-component/
 
 ## My process
@@ -32,5 +32,6 @@ The project provided an amazing opportunity to practice REGEX. I also learned on
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
+- Frontend Mentor - [@carolkiarie]
+https://www.frontendmentor.io/solutions/use-of-regex-to-validate-a-form-OtmAcOZ154
