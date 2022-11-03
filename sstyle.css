@@ -67,9 +67,8 @@ margin: 5rem;
   }
   
   body{
-    background-image: url("../images/bg-intro-desktop.png");
-    
     background-color: var(--red);
+    background-image: url('/images/bg-intro-desktop.png');
     
 }
 form{
